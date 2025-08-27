@@ -6,7 +6,7 @@ System Engineer | Full-Stack AI Engineer
 
 I am currently working as a System Engineer, providing production support and system solutions for Blue Cross Blue Shield, one of the largest health insurance providers in the USA. My role involves ensuring stability, automation, and optimization of enterprise-scale processes. In addition, I bring expertise as a Full-Stack AI Engineer, where I design and build AI-driven applications that integrate backend, frontend, and machine learning models. This combination allows me to bridge traditional enterprise systems with cutting-edge AI solutions, giving me strong expertise across infrastructure, data engineering, backend/frontend development, and applied machine learning.
 
-Academic background: I graduated with my Bachelor of Science in Computer Engineering and a minor in Mathematics from the University of North Texas.
+Academic background: I graduated with my Bachelor of Science in Computer Engineering and a Minor in Mathematics from the University of North Texas (ABET Accredited), Cum Laude.
 
 * 🌍  I'm based in Dallas-Fort Worth Metroplex
 * ✉️  You can contact me at [qshaafi@gmail.com](mailto:qshaafi@gmail.com)
